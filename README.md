@@ -48,6 +48,6 @@ This image shows where people would likely to use a shared bike.
 
 ![image](https://user-images.githubusercontent.com/48306359/137720176-3db6e84f-b2cb-4e08-b4f5-f3678ca971dc.png)
 
-That make sense, because this situations is a standard Biosson distribution.
+That make sense, because this situations is a standard Biosson distribution. 
 
 [Link to Dashboard](https://public.tableau.com/app/profile/joshua.hao/viz/NYCCitiBikeDashboard_16342888828030/D3?publish=yes)
